@@ -14,4 +14,5 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
-$ git revert 16
+$ git revert _@ 2021 XYZ, Inc._
+
