@@ -14,4 +14,5 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
-$ git revert
+$ git revert bug-fix-typo
+
